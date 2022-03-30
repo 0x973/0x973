@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Skills👨‍💻
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,js,cs,java,swift,ts,html,css,dotnet,py,docker,kubernetes,cassandra,redis,mysql,spring,express,react,vue,electron,idea,linux,bash,nginx,raspberrypi,visualstudio,vscode,wordpress&theme=light&perline=7" />
+  </a>
+</p>
+
