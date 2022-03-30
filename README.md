@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,js,cs,java,swift,ts,html,css,dotnet,py,docker,kubernetes,cassandra,redis,mysql,spring,express,react,vue,electron,idea,linux,bash,nginx,raspberrypi,visualstudio,vscode&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,js,cs,java,swift,ts,html,css,dotnet,py,docker,kubernetes,cassandra,redis,mysql,spring,express,react,vue,electron,idea,linux,bash,nginx,raspberrypi,visualstudio,vscode&theme=light&perline=14)](https://skillicons.dev)
