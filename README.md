@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm X-0x01.
 
 
-- 🔭 Studio: [PingBASE](https://github.com/pingbase)
+- 🔭 Development studio: [PingBASE](https://github.com/pingbase)
 - 🌱 I’m currently learning **Go and Algorithms**
 - 📫 How to reach me: [@zz](mailto:info@pingbase.cn)
 
