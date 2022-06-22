@@ -1,4 +1,4 @@
-## 👋 Hello! I'm X-0x01.
+## 👋 Hello! I'm 0x973.
 
 
 - 🔭 Development studio: [PingBASE](https://github.com/pingbase)
