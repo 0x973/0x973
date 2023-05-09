@@ -3,7 +3,7 @@
 
 - 🔭 Development studio: [PingBASE](https://github.com/pingbase)
 - 🌱 I’m currently learning **Go and Algorithms**
-- 📫 How to reach me: [@zz](mailto:info@pingbase.cn)
+- 📫 How to reach me: [@zz](mailto:zak@pingbase.cn)
 
 
 
