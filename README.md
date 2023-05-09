@@ -4,7 +4,7 @@
 - 🔭 Development studio: [PingBASE](https://github.com/pingbase)
 - 🌱 I’m currently learning **Go and Algorithms**
 - 📫 How to reach me: [@zz](mailto:zak@pingbase.cn)
-
+- 🤔️ "We are all in the gutter , but some of us are looking at stars."
 
 
 ## 📌 My Skills
