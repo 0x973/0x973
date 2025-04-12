@@ -2,7 +2,7 @@
 
 
 - 🔭 Development studio: [PingBASE](https://github.com/pingbase)
-- 🌱 I really like **Go and Node.js**, continue to improve.
+- 🌱 I really like **Go and TypeScript**, continue to improve.
 - 📫 How to reach me: [@zak](mailto:zak@pingbase.cn)
 - 🤔️ "We are all in the gutter , but some of us are looking at stars."
 
